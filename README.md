@@ -21,7 +21,7 @@ git clone
 Once you have cloned the repo, install dependencies by running:
 
 ```bash
-NPM install
+npm install
 ```
 
 ### Project Images
